@@ -8,9 +8,11 @@
 
 💧 I love building things with [**Elixir**](https://elixir-lang.org/).
 
-📹 You can view my latest tech talk [here](https://vin.cy/CBLAms2019).
+📹 Watch my latest tech talk [here](https://vin.cy/CBLAms2019).
 
 🌐 Or visit my website [here](https://vin.cy/me).
+
+🔗 Or check out my new project, [Vincy](https://vin.cy/me).
 
 
 
