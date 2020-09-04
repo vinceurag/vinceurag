@@ -4,7 +4,7 @@
 
 👨🏽‍💻 I'm a **Software Engineer**.
 
-🇵🇭 I'm based at **Manila, Philippines**.
+🇵🇭 I'm based in **Manila, Philippines**.
 
 💧 I love building things with [**Elixir**](https://elixir-lang.org/).
 
