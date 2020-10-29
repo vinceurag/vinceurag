@@ -19,5 +19,3 @@
 🐦 [@VinceUrag](https://vin.cy/twitter)
 
 📷 [@vinceurag](https://vin.cy/ig)
-
-![](https://media3.giphy.com/media/bh5UZVQjB9ouQ/giphy.gif)
