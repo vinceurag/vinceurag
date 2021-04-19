@@ -1,4 +1,3 @@
-![](https://i.imgur.com/A89CO2P.gif)
 
 👋🏼 Hello! I'm **Vince**. Some people call me _Vincy_.
 
