@@ -11,7 +11,7 @@
 
 🌐 Or visit my website [here](https://vin.cy/me).
 
-🔗 Or check out my new project, [Vincy](https://vin.cy/me).
+🔗 Or check out my new project, [Vincy](https://vin.cy).
 
 
 
