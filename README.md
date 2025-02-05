@@ -5,7 +5,7 @@
 
 🇵🇭 I'm based in **Manila, Philippines**.
 
-💧 I love building things with [**Elixir**](https://elixir-lang.org).
+💧 I love building things with [**Elixir**](https://elixir-lang.org) (8+ years of experience).
 
 📹 Watch my latest tech talk (CodeBEAM Amsterdam) [here](https://www.youtube.com/watch?v=iGU_vsEZvBM).
 
@@ -13,7 +13,7 @@
 
 🌐 Or visit my website [here](https://vinceurag.com).
 
-🔗 Or check out my new project, [Vincy](https://vincy.dev).
+🔗 Or check out my new project, [Vincy](https://vin.cy).
 
 
 
